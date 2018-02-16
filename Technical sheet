@@ -1,0 +1,30 @@
+PEGASUS V-3 SR-2
+
+WEIGHTS
+Fuselage: 660 g
+Cone: 75 g
+Empty engine: 490 g
+Battery: 115 g
+Electronics: 150 g
+Gunpowder: 30 g
+Parachute: 110 g
+Total weight: 1630 g
+
+ENGINE
+Type: I458
+Average impulse: 457 N
+Total impulse: 338 N-seg
+Specific impulse: 119,3 seg
+Burn time: 0,740 seg
+Maximum thrust: 581 N 
+Loaded weight: 779 g
+Propelent weight: 289 g
+
+SIMULATION
+Launching total weight: 1919 g
+Apogee 988 m
+Max vel.: 168 m/s
+Max a.: 290 m/s2
+Mach: 0,49 mach
+Time until apogee:  13 s
+Stability: 1,87 cal
